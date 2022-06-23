@@ -1,0 +1,26 @@
+.class-div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.number-one {
+    background-color: plum;
+}
+#number-two {
+    color:blue;
+    font-size: 25px;
+}
+
+.number-three {
+    background-color: palevioletred;
+    font-size: 20px;
+}
+
+.number-four {
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 18px;
+}
